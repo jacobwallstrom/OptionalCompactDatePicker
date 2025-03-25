@@ -2,7 +2,7 @@
 
 A Swift date picker working the same as the built in date picker in compact mode date only mode, but that can have a nullable date.
 
-![_The gif makes it look like there's an extra bezel but it's just the the built in Date Picker shadow_](./Demo.gif)
+![Demo](./Demo.gif)
 
 # Features and limitations
 
